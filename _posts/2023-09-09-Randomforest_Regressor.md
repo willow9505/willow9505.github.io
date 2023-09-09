@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "jupyter notebook 변환하기!"
+title:  "데이터 분석(전처리, 이상치 탐지) 및 모델링 예제"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
