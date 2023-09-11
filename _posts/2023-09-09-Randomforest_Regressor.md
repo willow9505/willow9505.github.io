@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "데이터 분석(전처리, 이상치 탐지) 및 모델링 예제"
+title:  "데이터 시각화, 이상치 탐지, 모델링 예제"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
