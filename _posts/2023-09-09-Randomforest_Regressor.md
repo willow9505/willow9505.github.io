@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "데이터 시각화와 이상치 탐지 그고 모델링 예제"
+title: "데이터 시각화와 이상치 탐지 그리고 모델링 예제"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
